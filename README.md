@@ -1,1 +1,2 @@
 # NETFLIX MOVIES AND TV SHOWS DATA ANALYSIS USING SQL
+![NETFLIX_LOGO](https://i.pinimg.com/originals/c8/bc/49/c8bc4907863e6f8fdc12e13e24d3587d.png)
